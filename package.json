@@ -1,0 +1,20 @@
+{
+  "name": "naija-fashion",
+  "version": "1.0.0",
+  "description": "Nigerian Traditional Fashion E-commerce App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dprince-03/Naija-Fashion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dprince-03/Naija-Fashion/issues"
+  },
+  "homepage": "https://github.com/dprince-03/Naija-Fashion#readme"
+}

@@ -1,5 +1,20 @@
 @import "tailwindcss";
 
+/* Cursive / script font used for hero headings like 'Timeless' */
+.font-script {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 400; /* Great Vibes is decorative — keep normal weight */
+  letter-spacing: 0.5px;
+  line-height: 1.05;
+}
+
+/* @layer base {
+  a {
+    @apply text-white no-underline hover:text-gray-300;
+  }
+} */
+
+
 
 /* @import "tailwindcss/base";
 @import "tailwindcss/components";
